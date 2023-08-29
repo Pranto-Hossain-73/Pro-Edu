@@ -1,0 +1,50 @@
+/* commun code start */
+*{
+    font-family: 'Poppins', sans-serif;
+    color: #777;
+}
+/* commun code end */
+header{
+    background-color: #FFF;
+}
+.logo{}
+.logo a{
+    font-size: 40px;
+    font-weight: 700;
+    color: #4A4A4A;
+}
+.manu ul li a{
+    font-size: 18px;
+    color: #777777 !important;
+}
+.m_btn{
+    font-size: 20px !important;
+    border-radius: 5px !important;
+    border: 2px solid #1D1D1D!important;
+}
+.m_btn:hover{
+    border: 2px solid #289BDE !important;
+    color: #289BDE !important ;
+}
+/* slider start */
+.slider{}
+.image{
+    filter: brightness(50%);
+}
+.text{}
+.text h1{
+    color: #FFF;
+    font-size: 65px;
+    font-weight: 700;
+}
+.text p{
+    color: #F4F4F4;
+    font-size: 16px;
+}
+.s_btn{
+    font-size: 20px !important;
+    color: #FFF !important ;
+    background:#289BDE !important ;
+    padding: 10px 35px !important;
+}
+/* slider end */
