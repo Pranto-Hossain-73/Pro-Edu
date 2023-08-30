@@ -4,8 +4,11 @@
     color: #777;
 }
 /* commun code end */
+/* header start */
+
 header{
     background-color: #FFF;
+    margin: 20px 0px;
 }
 .logo{}
 .logo a{
@@ -26,11 +29,15 @@ header{
     border: 2px solid #289BDE !important;
     color: #289BDE !important ;
 }
+/* header end */
 /* slider start */
-.slider{}
+.slider{
+    margin: 20px 0px 100px 0px;
+}
 .image{
     filter: brightness(50%);
 }
+.image img{}
 .text{}
 .text h1{
     color: #FFF;
@@ -41,10 +48,98 @@ header{
     color: #F4F4F4;
     font-size: 16px;
 }
-.s_btn{
+.s_btn {
     font-size: 20px !important;
-    color: #FFF !important ;
-    background:#289BDE !important ;
-    padding: 10px 35px !important;
+    color: #FFF !important;
+    background: #289BDE !important;
+    padding: 5px 30px !important;
+    margin-top: 30px;
 }
 /* slider end */
+/* Discover start */
+.d_text{
+    margin: 20px 0px 50px 0px;
+}
+.d_text h1{
+    font-size: 45px;
+    font-weight: 700;
+    color: #1D1D1D;
+}
+.d_text p{}
+/* card start */
+.c_card{
+    margin: 35px 0px;
+}
+.c_image{}
+.c_text{}
+.c_text h1{
+    font-size: 25px;
+    font-weight: 700;
+    color: #4A4A4A;
+}
+.c_text p{}
+.c_text h2{
+    font-size: 18px;
+    font-weight: 700;
+    color: #289BDE;
+}
+
+/* explore start */
+.explore{
+    margin: 120px 0px 100px;
+}
+.e_text{
+    background-color: #F4FAFD;
+    padding: 50px !important;
+}
+.e_items{}
+.e_items h1{}
+.e_items p{}
+.e_items{}
+.e_number{}
+.e_online{}
+.e_online h1{}
+.e_online p{}
+.e_btn{}
+/* card end */
+/* Discover end */
+/* ready start */
+.ready{
+   background-color: #289BDE;
+   margin-bottom: 70px;
+   padding: 70px;
+}
+.r_text{
+    width: 35%;
+}
+.r_text h1{
+    color: #FFFFFF;
+}
+.r_text p{
+    color: #FFFFFF;
+}
+.r_btn{
+    background-color:#FFFFFF!important;
+    color: #289BDE !important;
+}
+/* ready end */
+/* meet start */
+.meet{}
+.m_card{
+    border: solid 1px #E8E8E8;
+}
+.m_text{
+    line-height: 8px;
+    
+}
+.m_text h2{
+    font-size: 20px !important;
+    color: #4A4A4A !important;
+}
+.m_text p{
+    font-size: 16px; ;
+    color: #777;
+}
+/* meet end */
+/* some start */
+/* some end */
