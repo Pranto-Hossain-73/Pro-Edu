@@ -109,9 +109,9 @@ header{
    margin-bottom: 70px;
    padding: 70px;
 }
-.r_text{
+/* .r_text{
     width: 35%;
-}
+} */
 .r_text h1{
     color: #FFFFFF;
 }
@@ -125,6 +125,9 @@ header{
 /* ready end */
 /* meet start */
 .meet{}
+.meet_card{
+    margin: 80px 0px 0px 0px;
+}
 .m_card{
     border: solid 1px #E8E8E8;
 }
@@ -142,6 +145,54 @@ header{
 }
 /* meet end */
 /* some start */
+.some{
+    margin: 100px 0px;
+}
+/* card start */
+.s_card{
+    margin: 0px 0px 170px 0px;
+}
+.s_image img{
+    width: 50px;
+}
+.s_image{}
+.s_image img{}
+.s_icon{}
+.s_icon i{
+    color: gold;
+}
+#icon{
+    color: rgb(235, 220, 136) ;
+}
+.s_text{
+    line-height: 10px;
+}
+.s_text h2{
+    font-size: 18px;
+    font-weight: 700;
+}
+.s_text p{
+    font-size: 16px;
+}
+/* card end */
 /* some end */
 /* according start */
 /* according end */
+/* truster start */
+.truster{
+    margin: 100px 0px 120px 0px;
+}
+.t_image{}
+.t_image img{}
+/* truster end */
+/* footer start */
+footer{
+    background: #161616;
+    padding: 60px;
+}
+.f_icon i{
+    font-size: 25px;
+    color: #FFFFFF;
+    padding-right: 20px;
+}
+/* footer end */
