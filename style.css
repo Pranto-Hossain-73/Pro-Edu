@@ -38,6 +38,9 @@ header{
     filter: brightness(50%);
 }
 .image img{}
+#cover-2{
+    height: 10%;
+}
 .text{}
 .text h1{
     color: #FFF;
@@ -122,6 +125,9 @@ header{
     background-color:#FFFFFF!important;
     color: #289BDE !important;
 }
+.r_btn:hover{
+    direction: none;
+}
 /* ready end */
 /* meet start */
 .meet{}
@@ -133,10 +139,7 @@ header{
 }
 .m_image{}
 .m_image img{}
-.m_text{
-    line-height: 8px;
-    
-}
+.m_text{}
 .m_text h2{
     font-size: 20px !important;
     color: #4A4A4A !important;
